@@ -1,0 +1,43 @@
+<champions>
+  <champion year="2018">
+    <team name="Golden State Warriors">
+      <winLossRatio>58-24</winLossRatio>
+      <coach>Steve Kerr</coach>
+      <generalManager>Bob Myers</generalManager>
+      <finalsMVP>Kevin Durant</finalsMVP>
+      <logo>warriors.png</logo>
+    </team>
+  </champion>
+  <champion year="2019">
+    <team name="Toronto Raptors">
+      <winLossRatio>58-24</winLossRatio>
+      <coach>Nick Nurse</coach>
+      <generalManager>Masai Ujiri</generalManager>
+      <finalsMVP>Kawhi Leonard</finalsMVP>
+    </team>
+  </champion>
+  <champion year="2020">
+    <team name="Los Angeles Lakers">
+      <winLossRatio>52-19</winLossRatio>
+      <coach>Frank Vogel</coach>
+      <generalManager>Rob Pelinka</generalManager>
+      <finalsMVP>LeBron James</finalsMVP>
+    </team>
+  </champion>
+  <champion year="2021">
+    <team name="Milwaukee Bucks">
+      <winLossRatio>46-26</winLossRatio>
+      <coach>Mike Budenholzer</coach>
+      <generalManager>Jon Horst</generalManager>
+      <finalsMVP>Giannis Antetokounmpo</finalsMVP>
+    </team>
+  </champion>
+  <champion year="2022">
+    <team name="Phoenix Suns">
+      <winLossRatio>51-21</winLossRatio>
+      <coach>Monty Williams</coach>
+      <generalManager>James Jones</generalManager>
+      <finalsMVP>Devin Booker</finalsMVP>
+    </team>
+  </champion>
+</champions>

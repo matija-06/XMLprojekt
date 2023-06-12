@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<popisKorisnika>
+	<korisnik>
+		<username>matija06</username>
+		<password>123456</password>
+		<ime>Matija</ime>
+		<prezime>Kurpez</prezime>
+	</korisnik>
+	<korisnik>
+		<username>2lipe</username>
+		<password>123456</password>
+		<ime>Dua</ime>
+		<prezime>Lipa</prezime>
+	</korisnik>
+</popisKorisnika>
